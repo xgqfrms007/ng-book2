@@ -21,7 +21,12 @@ CNAME
 
 www.gitbooks.io
 
-*.gitbooks.io
+*.gitbooks.io 
+
+
+
+http://colobu.com/2014/10/09/gitbook-quickstart/  
+
 
 
 
