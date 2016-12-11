@@ -1,7 +1,11 @@
 # what is gitbook metadata ?
 
-
+## Open Data Metadata Guide  
 https://www.gitbook.com/book/centerforgov/open-data-metadata-guide/details  
+
+
+## Disqus  
+http://www.chengweiyang.cn/gitbook/plugins/functional/disqus.html  
 
 
 
