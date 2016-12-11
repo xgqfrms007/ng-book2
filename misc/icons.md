@@ -1,4 +1,4 @@
-# github Icons
+# GitHub Icons
 
 
 [![GitHub forks](https://img.shields.io/github/forks/xgqfrms/xgqfrms.svg?style=social&label=Fork&)](https://github.com/xgqfrms/xgqfrms)
